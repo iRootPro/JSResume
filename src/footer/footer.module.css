@@ -1,0 +1,17 @@
+.footerBlock {
+    height: 200px;
+    background: aquamarine;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.socialBlock {
+    width: 300px;
+display: flex;
+    justify-content: space-between;
+
+}

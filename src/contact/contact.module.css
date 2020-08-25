@@ -1,0 +1,20 @@
+.contactBlock {
+    height: 100vh;
+    background: aliceblue;
+}
+
+.container {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.formContact {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.textArea {
+    height: 200px;
+}
